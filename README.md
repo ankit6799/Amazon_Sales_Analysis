@@ -1,10 +1,12 @@
 # Amazon_Sales_Analysis
+
 **Overview:**
 Conducted a comprehensive analysis of Amazon sales data to uncover key insights on product performance, shipping efficiency, and customer preferences. The analysis aimed to improve inventory management and enhance delivery operations.
 
+
 **Description:**
 The project involved exploring and analyzing an Amazon sales dataset containing information about product categories, shipping statuses, and product sizes. Using data analytics and visualization techniques, patterns in sales performance and customer behavior were identified to support strategic business decisions.
-Here is the text extracted from the image:
+
 
 **Objectives:**
 
@@ -22,6 +24,7 @@ Here is the text extracted from the image:
   * **Cancellations:** 13.82%
   * **Returns:** 5.25%
 * **Business Insight:** High-performing categories align with consistent size demand, indicating potential for inventory scaling. However, notable cancellations and returns suggest a need for deeper analysis into fulfillment and quality factors.
+
 
 **Recommendations:**
 
